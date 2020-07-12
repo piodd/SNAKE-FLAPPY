@@ -2,14 +2,14 @@
 Snake + path finding , "flappy bird" + neuron network
 
 
-Snake Key_bind
+Snake Key_bind\
 
-WASD
+WASD\
 
 
-Flappy 
+Flappy \
 
-UP arrow
+UP arrow\
 
 
 Snake AI use path finding  
