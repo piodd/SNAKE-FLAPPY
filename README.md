@@ -14,14 +14,14 @@ UP arrow\
 
 Snake AI use path finding  \
 
-short description of the algorithm\
+short description of the algorithm  \
 
 
 we start whit 2-d array  \
  0 == skane head  (dist(head,head)=0) \
 -1 == snake body \
 -3 == food \
--4 == not checked but empty box \
+-4 == not checked but empty box  \
 
 generally if value < 0  => special value / unavailable box \
 
