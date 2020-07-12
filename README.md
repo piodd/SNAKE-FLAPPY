@@ -12,12 +12,12 @@ Flappy \
 UP arrow \
 
 
-Snake AI use path finding  \
+Snake AI use path finding \
 
-short description of the algorithm  \
+short description of the algorithm \
 
 
-we start whit 2-d array  \
+we start whit 2-d array \
  0 == skane head  (dist(head,head)=0) \
 -1 == snake body \
 -3 == food \
