@@ -9,7 +9,7 @@ WASD \
 
 Flappy \
 
-UP arrow\
+UP arrow \
 
 
 Snake AI use path finding  \
